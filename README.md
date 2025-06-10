@@ -1,3 +1,5 @@
+# Not sure why I made this.. just felt like a fun challenge,I guess!😄
+
 ```markdown
 # 🦖 Dino Game - React + TypeScript
 
